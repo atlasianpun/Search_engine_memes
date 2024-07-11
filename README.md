@@ -84,14 +84,6 @@ The architecture leverages Apache Nutch for crawling, Apache Solr for indexing, 
 - `ui/`: User interface code for the search engine.
 - `docs/`: Documentation and report files.
 
-## Contributors
-
-- **Chaya Kusi** - Crawling
-- **Maneesh Polu** - Indexing and Relevance
-- **Dheeraj Chintagumpala** - User Interface and Comparison with Google & Bing
-- **Snigdha Gogineni** - Clustering
-- **Punya Parag Modi** - Query Expansion and Relevance Feedback
-
 ## License
 
 This project is licensed under the MIT License.
